@@ -1,0 +1,6 @@
+{
+  "name": "프롬프트 한입",
+  "description": "바쁜 일상에서 가볍게 쏙쏙 뽑아 먹는 프롬프트 템플릿 - 모바일 PWA 웹앱",
+  "requestFramePermissions": [],
+  "majorCapabilities": ["MAJOR_CAPABILITY_SERVER_SIDE_GEMINI_API"]
+}
